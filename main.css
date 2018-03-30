@@ -1,0 +1,13 @@
+#page-wrapper {
+ width: 80%;
+ margin: 0 auto;
+}
+
+#body-wrapper {
+    text-align: center;
+    margin-top : 50px;
+}
+
+.input {
+    padding-bottom: 50px;
+}
