@@ -127,4 +127,3 @@ function writeToDom(domString, domId){
         });
 
         // writeToDom (domString, 'myTextOutPut');
-
